@@ -1,7 +1,25 @@
-# Vue 3 + Vite
+# Suspense feature in Vue 3 with SFC Script Setup
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+These examples are part of my blog post [Suspense feature in Vue 3 with SFC Script Setup](https://www.trpkovski.com/2021/09/25/suspense-feature-in-vue-3-with-sfc-script-setup/). Please refer to the blog article for detailed explanation.
 
-## Recommended IDE Setup
+![alt text](https://res.cloudinary.com/suv4o/image/upload/c_scale,f_auto,w_750/v1632533777/blog/vue3-suspense/vue3-suspense_mpqxff)
 
-- [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+<h2 align="center">Getting Started is Simple</h2>
+
+#### Install dependencies
+
+```
+npm install
+```
+
+#### Serve at localhost:3000
+
+```
+npm run dev
+```
+
+#### Building for Production
+
+```
+npm run build
+```
